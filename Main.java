@@ -66,6 +66,13 @@ public class Main
 	//STORYLINE
 	public static void INTRO()
 	{
+		sayln("░░▄▀▀▀▄░▄▄░░░░░░╠▓░░░░");
+		sayln("░░░▄▀▀▄█▄░▀▄░░░▓╬▓▓▓░░");
+		sayln("░░▀░░░░█░▀▄░░░▓▓╬▓▓▓▓░");
+		sayln("░░░░░░▐▌░░░░▀▀███████▀");
+		sayln("▒▒▄██████▄▒▒▒▒▒▒▒▒▒▒▒▒");
+
+		sayln("");
 		sayln("Welcome to Island Escape, a text based interactive story.");
 		sayln("========================================================"); 
 		newLine();

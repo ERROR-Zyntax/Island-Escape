@@ -1395,7 +1395,7 @@ public class Main
 							newLine();
 							sayln("Floating Note 2: 17 this, 17 that. Wonder why 17 means so much to Emma.");
 							newLine();
-							sayln("Floating Note 3: Being the older brother sucks!!! She acts like she can still be the same high school ");
+							sayln("Floating Note 3: Being the older brother sucks!!! She acts like she can still be the same in high school ");
 							sayln("girl she used to be... Like grow up! We're only 4 years apart!");
 							newLine();
 							sayln("Floating Note 4: 2790 New year resolution- Get back into shape. Never too late to change.");
